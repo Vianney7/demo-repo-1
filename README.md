@@ -3,7 +3,7 @@
 Some description!
 
 ## Subheader
-
+Study to show yourself approved unto God.
 Watch tutorial on YouTube.
 
 ## Local Development
